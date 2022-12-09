@@ -37,11 +37,9 @@ Users should be able to:
 
 ## My process
 
-- Started vite with your terminal, ensure to visit official page vite.dev and you have done install nodejs on your local.
+- Started vite with terminal, ensure to visit official page vite.dev and you have done install nodejs on your local.
 
-```$ npm create vite@latest
-
-```
+`$ npm create vite@latest`
 
 - Name it your folder project, in this case the name folder is multi-step-form
 
@@ -49,9 +47,7 @@ Users should be able to:
 
 - Go to project folder, and type npm install like below
 
-```$ npm install
-
-```
+`$ npm install`
 
 - For css styling, this use tailwind css, follow instructions in official page tailwind
 
