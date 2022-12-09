@@ -37,7 +37,25 @@ Users should be able to:
 
 ## My process
 
-- Coming soon (on drafting)
+- Started vite with your terminal, ensure to visit official page vite.dev and you have done install nodejs on your local.
+
+```$ npm create vite@latest
+
+```
+
+- Name it your folder project, in this case the name folder is multi-step-form
+
+- Choice framework library what you need with vite, in this case use typescript.
+
+- Go to project folder, and type npm install like below
+
+```$ npm install
+
+```
+
+- For css styling, this use tailwind css, follow instructions in official page tailwind
+
+- Start coding.
 
 ### Built with
 
